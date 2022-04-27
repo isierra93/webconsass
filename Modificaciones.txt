@@ -1,0 +1,21 @@
+Se hicieron la siguientes modificaciones:
+
+Index.html
+Descripcion: Reviews de videojuegos actuales a la venta
+Keywords: NOTICIAS, REVIEW, GAMES, JUEGOS, VIDEOJUEGOS, REVIEW, STEAM, XBOX, PS, PLAYSTATION, GAMEPASS, STORE
+
+Store.html
+Descripcion: Videojuegos a la venta
+Keywords: VENTA, COMPRAR, JUEGOS, VIDEOJUEGOS, REVIEW, STEAM, XBOX, PS, PLAYSTATION, GAMEPASS, STORE
+
+Ayuda.html
+Descripcion: Preguntas frecuentes y de ayuda
+Keywords: FAQ, AYUDA, CONSULTA, PREGUNTAS, FRECUENTES, PREGUNTAS FRECUENTES, PAGO, DEVOLUCIONES, CUOTAS, ENVIOS, GARANTIA
+
+quienes-somos.html
+Keywords: Nuestra historia y quienes somos
+Descripcion: GG, GG NO TEAM, NO TEAM, HISTORIA, QUIENES, SOMOS, QUIENES SOMOS, VIDEO, VIDEOJUEGOS, STORE
+
+contacto.html
+Keywords: Contacto con la tienda online
+Descripcion: CONTACTO, STORE, MAIL, FORMULARIO, GG, NO TEAM, GG NO TEAM, CONSULTA, VIDEO, VIDEOJUEGOS
